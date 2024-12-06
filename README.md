@@ -1,4 +1,4 @@
-## Jekyll Docker
+# Jekyll Docker
 
 [![CI](https://github.com/DudeCalledBro/jekyll-docker-image/actions/workflows/ci.yml/badge.svg)](https://github.com/DudeCalledBro/jekyll-docker-image/actions/workflows/ci.yml)
 
