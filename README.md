@@ -1,6 +1,6 @@
 # Jekyll Docker
 
-[![CI](https://github.com/DudeCalledBro/jekyll-docker-image/actions/workflows/ci.yml/badge.svg)](https://github.com/DudeCalledBro/jekyll-docker-image/actions/workflows/ci.yml)
+[![CI](https://github.com/DudeCalledBro/docker-image-jekyll/actions/workflows/ci.yml/badge.svg)](https://github.com/DudeCalledBro/docker-image-jekyll/actions/workflows/ci.yml)
 
 This repository is dedicated to developing the code necessary for containerizing Jekyll using Docker. It includes all the required files and configurations to create a Docker image for running Jekyll efficiently.
 

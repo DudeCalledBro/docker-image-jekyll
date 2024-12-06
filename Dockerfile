@@ -2,7 +2,7 @@ FROM ruby:3.3-slim-bookworm
 
 LABEL org.opencontainers.image.authors="Niclas Spreng"
 LABEL org.opencontainers.image.description="Jekyll Docker Image"
-LABEL org.opencontainers.image.source=https://github.com/DudeCalledBro/jekyll-docker-image
+LABEL org.opencontainers.image.source=https://github.com/DudeCalledBro/docker-image-jekyll
 
 ARG DEBIAN_FRONTEND=noninteractive
 
